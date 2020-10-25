@@ -35,7 +35,7 @@ https://baishixueyi.github.io/my-ppt/ 点击查看效果预览
 
 **项目源码**
 
-hhttp://212.129.234.39/Image-host/ 点击查看效果预览
+http://212.129.234.39/Image-host/ 点击查看效果预览
 
 ### 掌北小程序
 **项目介绍**
